@@ -1,6 +1,6 @@
-# Digital Scholarship Workshop Series - Web Scraping
+# Digital Scholarship Workshop Series - WORKSHOP TITLE
 
-These files support the web scraping tutorial, which can be found here. https://librarybeales.github.io/Web-Scraping/.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.
+These files support the WROKSHOP TITLE tutorial, which can be found here. https://librarybeales.github.io/WORKSHOPTITLE.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.
 
 ## Getting Started
 
